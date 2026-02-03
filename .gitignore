@@ -1,2 +1,5 @@
 Test
 Signal/original
+*.obj
+*.mtl
+*.blend1
