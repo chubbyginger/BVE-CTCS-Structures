@@ -1,2 +1,5 @@
 # BVE-CTCS-Structures
-【BVE5/6用】中国铁路CTCS信号模型
+中国铁路CTCS信号机、线路标志模型，BVE Trainsim 5/6可用。
+
+## 借物表
+Nagoya_Common
